@@ -1,4 +1,4 @@
-
+### Hi there 👋
 
 <!--
 **bdi2357/bdi2357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/bdi2357/bdi2357/blob/main/ET1.png)
-# 🕺🏼 Hi friend! Pleased to meet you.
-Chances are, I've either directed you here, or you've been spelunking through my [website, open-source projects, and talks] in which case, welcome!  let me know if you have any questions(mailto:itaybd@gmail.com). Looking forward to working with you!
+![This is an image](https://github.com/bdi2357/bdi2357/ET1.png)
+# Hi, friend! Pleased to meet you.
+Chances are, I've either directed you here, or you've been spelunking through my [website, open-source projects, and talks] in which case, welcome!  and [let me know if you have any questions] (mailto:itaybd@gmail.com). Looking forward to working with you!
