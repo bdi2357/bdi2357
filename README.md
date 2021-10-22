@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![This is an image](https://github.com/bdi2357/bdi2357/ET1.png)
 # Hi, friend! Pleased to meet you.
-Chances are, I've either directed you here, or you've been spelunking through my [website, open-source projects, and talks] in which case, welcome!  and ![let me know if you have any questions] (mailto:itaybd@gmail.com). Looking forward to working with you!
+Chances are, I've either directed you here, or you've been spelunking through my [website, open-source projects, and talks] in which case, welcome!  and ![let me know if you have any questions](mailto:itaybd@gmail.com). Looking forward to working with you!
