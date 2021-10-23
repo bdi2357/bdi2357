@@ -21,5 +21,7 @@ Chances are, I've either directed you here, or you've been through my [website, 
 ### 📞 Contact
 I am available via **text message**, [**email**](mailto:itaybd@gmail.com).
 Always feel free to text me if you need something and I have given you my number.
+### 🗺 Location
 
+I am currently based in the sunny  **Herzliya, Israel**,  and have inside information of some the best bakeries/coffee within a two mile radius. Let me know if you're in the area, and [let's caffeinate] ☕
 
