@@ -29,13 +29,13 @@ I am currently based in the sunny  **Herzliya, Israel**,  and have inside inform
 ### Every day is a new test, where the most important tests in life happen unexpectedly. The challenges we are tackling (including our choice to do so) and the way we tackle them define us as human beings.
 ### Titles: (Wizard of Oz Play/ Noel Langley, Florence Ryerson and Edgar Allen Woolf) 
 SCARECROW: 
-	You promised us real things -- a real...brain!\n
-WIZARD
+	You promised us real things -- a real...brain!<br />
+WIZARD:
 	Why, anybody can have a brain.  That's a
 	very mediocre commodity.  Every pusillanimous
 	creature that crawls on the earth -- or
-	slinks through slimy seas has a brain!\n
-WIZARD
+	slinks through slimy seas has a brain!<br />
+WIZARD:
 	From the rock-bound coast of Maine to the
 	Sun.... oh - oh, no -- -- ah - Well, be
 	that as it may. Back where I come from we
@@ -44,11 +44,11 @@ WIZARD
 	And when they come out, they think deep
 	thoughts -- and with no more brains than
 	you have.... But!  They have one thing you
-	haven't got!  A diploma!
-  Therefore, by virtue of the authority vested in me by the Universitatus Committeeatum e plurbis unum, I hereby confer upon you the honorary degree of Th.D.\n
+	haven't got!  A diploma!<br />
+  Therefore, by virtue of the authority vested in me by the Universitatus Committeeatum e plurbis unum, I hereby confer upon you the honorary degree of Th.D.<br />
 SCARECROW:
-	Th.D.?\n
+	Th.D.?<br />
 WIZARD:
-	Yeah -- that...that's Dr. of Thinkology!\n
+	Yeah -- that...that's Dr. of Thinkology!<br />
 
 
