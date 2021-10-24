@@ -27,7 +27,12 @@ I am currently based in the sunny  **Herzliya, Israel**,  and have inside inform
 
 ## `Views`
 ### Every day is a new test, where the most important tests in life happen unexpectedly. The challenges we are tackling (including our choice to do so) and the way we tackle them define us as human beings.
-### Titles: Wizard of Oz Play Approach->
+### 🗣 Communication is everything, especially in open-source.
+Science and engineering are team sports.
+### 🙋‍♀️ Relentlessly ask questions.
+One of the most important figures in Judaism was an orchard guard with criminal past, that came to the classes (after doing his best to understand the material) and relentlessly asked questions trying his best to get to the truth. https://en.wikipedia.org/wiki/Shimon_ben_Lakish  
+### 📃 If you don't have documentation, you don't have a minimum viable product.
+### 🙏 Believe in people, not in acronyms, Titles: Wizard of Oz Play Approach->
 SCARECROW: 
 	You promised us real things -- a real...brain!<br />
 WIZARD:
