@@ -27,7 +27,7 @@ I am currently based in the sunny  **Herzliya, Israel**,  and have inside inform
 
 ## `Views`
 ### Every day is a new test, where the most important tests in life happen unexpectedly. The challenges we are tackling (including our choice to do so) and the way we tackle them define us as human beings.
-### Titles: (Wizard of Oz Play/ Noel Langley, Florence Ryerson and Edgar Allen Woolf) 
+## Titles: Wizard of Oz Play Approach->
 SCARECROW: 
 	You promised us real things -- a real...brain!<br />
 WIZARD:
