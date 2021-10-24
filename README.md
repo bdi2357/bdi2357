@@ -52,3 +52,4 @@ WIZARD:
 	Yeah -- that...that's Dr. of Thinkology!<br />
 
 
+![This is an image](https://github.com/bdi2357/bdi2357/blob/main/itay_2.png)
