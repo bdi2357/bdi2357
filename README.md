@@ -23,5 +23,32 @@ I am available via **text message**, [**email**](mailto:itaybd@gmail.com).
 Always feel free to text me if you need something and I have given you my number.
 ### 🗺 Location
 
-I am currently based in the sunny  **Herzliya, Israel**,  and have inside information of some the best bakeries/coffee within a two mile radius. Let me know if you're in the area, and [let's caffeinate](https://calendly.com/itaybd)!  ☕
+I am currently based in the sunny  **Herzliya, Israel**,  and have inside information of some the best bakeries/coffee within a three kilomteres radius. Let me know if you're in the area, and [let's meet](https://calendly.com/itaybd)!  ☕
+
+## `Views`
+### Every day is a new test, where the most important tests in life happen unexpectedly. The challenges we are tackling (including our choice to do so) and the way we tackle them define us as human beings.
+### Titles: (Wizard of Oz Play/ Noel Langley, Florence Ryerson and Edgar Allen Woolf) 
+SCARECROW 
+	You promised us real things -- a real...brain!
+WIZARD
+	Why, anybody can have a brain.  That's a
+	very mediocre commodity.  Every pusillanimous
+	creature that crawls on the earth -- or
+	slinks through slimy seas has a brain!
+WIZARD
+	From the rock-bound coast of Maine to the
+	Sun.... oh - oh, no -- -- ah - Well, be
+	that as it may. Back where I come from we
+	have universities, seats of great learning
+	-- where men go to become great thinkers.
+	And when they come out, they think deep
+	thoughts -- and with no more brains than
+	you have.... But!  They have one thing you
+	haven't got!  A diploma!
+  Therefore, by virtue of the authority vested in me by the Universitatus Committeeatum e plurbis unum, I hereby confer upon you the honorary degree of Th.D.
+SCARECROW
+	Th.D.?
+WIZARD
+	Yeah -- that...that's Dr. of Thinkology!
+
 
