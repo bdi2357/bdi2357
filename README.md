@@ -27,6 +27,9 @@ I am currently based in the sunny  **Herzliya, Israel**,  and have inside inform
 
 ## `Views`
 ### Every day is a new test, where the most important tests in life happen unexpectedly. The challenges we are tackling (including our choice to do so) and the way we tackle them define us as human beings.
+### Data-Centric approach
+Without Data there are no models, the key for good models is good preprocessing.
+### Opnions should be based on data and not the other way around.
 ### 🗣 Communication is everything, especially in open-source.
 Science and engineering are team sports.
 ### 🙋‍♀️ Relentlessly ask questions.
