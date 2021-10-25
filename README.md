@@ -60,11 +60,14 @@ SCARECROW:
 	Th.D.?<br />
 WIZARD:
 	Yeah -- that...that's Dr. of Thinkology!<br />
-SCARECROW
+SCARECROW:
 	The sum of the square roots of any two
 	sides of an isosceles triangle is equal to
 	the square root of the remaining side.  Oh
 	joy, rapture!  I've got a brain!
+	How can I ever thank you enough?<br />
+WIZARD:
+Well, you can't.
 
 
 ![](https://github.com/bdi2357/bdi2357/blob/main/itay_2.jpg)
