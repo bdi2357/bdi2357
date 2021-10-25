@@ -31,7 +31,7 @@ I am currently based in the sunny  **Herzliya, Israel**,  and have inside inform
 Without Data there are no models, the key for good models is good preprocessing.
 ### Opnions should be based on data and not the other way around.
 ### Samba Lando -> Qué tienes tú que no tenga yo?
-Zero tolerance to racism, discrimination of any kind. Preferences should have quantitative justification and in extreme case qualitative with solid rigor behind. 
+Zero tolerance to racism, discrimination of any kind. Preferences should have quantitative justification and in extreme cases qualitative with solid rigor behind. 
 ### 🗣 Communication is everything, especially in open-source.
 Science and engineering are team sports.
 ### 🙋‍♀️ Relentlessly ask questions.
