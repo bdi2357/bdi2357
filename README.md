@@ -30,10 +30,12 @@ I am currently based in the sunny  **Herzliya, Israel**,  and have inside inform
 ### Data-Centric approach
 Without Data there are no models, the key for good models is good preprocessing.
 ### Opnions should be based on data and not the other way around.
+### Samba Lando -> Qué tienes tú que no tenga yo?
+Zero tolerance to racism of any kind. Preferences should have quantitative justification and in extreme case qualitative with solid rigor behind. 
 ### 🗣 Communication is everything, especially in open-source.
 Science and engineering are team sports.
 ### 🙋‍♀️ Relentlessly ask questions.
-One of the most important figures in Judaism was an orchard guard with criminal past, that came to the classes (after doing his best to understand the material) and relentlessly asked questions trying his best to get to the truth. https://en.wikipedia.org/wiki/Shimon_ben_Lakish  
+One of the most important figures in Judaism was an orchard guard with criminal past, that came to the classes (after doing his best to understand the material) and relentlessly asked questions trying to get to the bottom of the truth. https://en.wikipedia.org/wiki/Shimon_ben_Lakish  
 ### 📃 If you don't have documentation, you don't have a minimum viable product.
 ### 🙏 Believe in people, not in acronyms, Titles: Wizard of Oz Play Approach->
 SCARECROW: 
