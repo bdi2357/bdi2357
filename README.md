@@ -35,6 +35,7 @@ Zero tolerance to racism, discrimination of any kind. Preferences should have qu
 ### 🗣 Communication is everything, especially in open-source.
 Science and engineering are team sports.
 ### 🙋‍♀️ Relentlessly ask questions.
+The most effective engineers (and leaders) are curious humans — scientists, even if they don't know it — and they're always, always asking questions, formulating hypotheses, running experiments.<br />
 One of the most important figures in Judaism was an orchard guard with criminal past, that came to the classes (after doing his best to understand the material) and relentlessly asked questions trying to get to the bottom of the truth. https://en.wikipedia.org/wiki/Shimon_ben_Lakish  
 ### 📃 If you don't have documentation, you don't have a minimum viable product.
 ### 🙏 Believe in people, not in acronyms, Titles: Wizard of Oz Play Approach->
@@ -46,9 +47,7 @@ WIZARD:
 	creature that crawls on the earth -- or
 	slinks through slimy seas has a brain!<br />
 WIZARD:
-	From the rock-bound coast of Maine to the
-	Sun.... oh - oh, no -- -- ah - Well, be
-	that as it may. Back where I come from we
+	Back where I come from we
 	have universities, seats of great learning
 	-- where men go to become great thinkers.
 	And when they come out, they think deep
