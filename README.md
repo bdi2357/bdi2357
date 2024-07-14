@@ -19,6 +19,7 @@ I am a Machine Learning Engineer and Researcher with extensive experience in spo
 - **Machine Learning Frameworks:** TensorFlow, PyTorch, Scikit-learn
 - **Data Analysis Tools:** Pandas, NumPy, SQL
 - **Other Technologies:** Docker, Kubernetes, AWS, Git, Linux
+- **Specialized Skills:** Prompt Engineering, Agent Design, CI/CD Workflows, Advanced Forecasting Methods
 
 ## Projects
 
