@@ -3,7 +3,7 @@
 !# My views regarding different aspects of life.  Trying to reflect data centric approach together with robust reasoning methods 
 -->
 
-# 🙋Welcome to My GitHub Profile!
+# 🙋Welcome!
 ![Profile Photo](https://github.com/bdi2357/bdi2357/blob/main/itay_2.jpg) <!-- Replace with your actual photo URL -->
 
 Using emojis can make your profile more engaging and visually appealing. Here are some recommendations for where to place them:
