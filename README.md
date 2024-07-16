@@ -28,9 +28,9 @@ I am a Machine Learning Engineer and Researcher with extensive experience in spo
 - **Technologies Used:** Python, D3.js
 - **Link:** [GitHub Repository](https://github.com/bdi2357/TreeModelVis)
 ### [StatisticalRebalancing](https://github.com/bdi2357/StatisticalRebalancing)
--- **Description:** A tool for handling imbalanced datasets, featuring a statistical rebalancing method using probabilistic estimations from simple classifiers.
--- **Technologies Used:** Python, scikit-learn, imbalanced-learn, pandas
--- **Link:** [GitHub Repository](https://github.com/bdi2357/StatisticalRebalancing)
+- **Description:** A tool for handling imbalanced datasets, featuring a statistical rebalancing method using probabilistic estimations from simple classifiers.
+- **Technologies Used:** Python, scikit-learn, imbalanced-learn, pandas
+- **Link:** [GitHub Repository](https://github.com/bdi2357/StatisticalRebalancing)
 
 ## Contact Information
 - **Email:** itaybd@gmail.com
